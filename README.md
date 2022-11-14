@@ -7,3 +7,4 @@ Volumez technology allows using a standard Linux OS to create high-performance p
 
 The attached FIO scripts can test a volume deployment created by the Volumez platform with its unique declarative policy that sets IOPS, BW, and resiliency for any use case that requires a specific performance.
 #### To run the attached ready-to-use script one must :
+* Open an account at www.volumez.com, use the wizard to create your storage with Volumez
